@@ -82,3 +82,9 @@ This experiment aims to demonstrate:
 - Select one or more files → Press Delete.
 
 - Empty the Recycle Bin to permanently remove them.
+
+## Step3: Recover
+- Use the Autopsy or sleuthkit tool to recover these files.
+
+## Result:
+This experiment successfully demonstrated the process of creating a disk partition, adding and deleting files, and recovering deleted files using Autopsy
