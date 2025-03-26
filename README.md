@@ -74,30 +74,38 @@ The primary aim of this report is to demonstrate the process of creating a disk 
 
 ## 2. Create a Case
 - Enter a case name and select a location to store the case data.
-  ![image](https://github.com/user-attachments/assets/d6f37baf-7bce-4abd-9281-cdb8f265c476)
+  ![Screenshot 2025-03-26 134017](https://github.com/user-attachments/assets/ba2c4341-d4be-489b-8023-27517a2359ca)
+
 
 - Provide a case number and investigator details if required.
 
 ## 3. Add a Data Source
 - Click "Add Data Source" and choose the type:
-  ![image](https://github.com/user-attachments/assets/a7721ece-2aee-4046-926e-e7437804758e)
+  ![Screenshot 2025-03-26 134115](https://github.com/user-attachments/assets/8b869c1e-ed42-45a0-962b-b6bcb9e85915)
+
 
 - Select the data source and let Autopsy process it.
 
 ## 4. File Analysis
 - Application 
-![image](https://github.com/user-attachments/assets/031432bf-1463-4a2a-a17a-b86ad5555fe6)
+![Screenshot 2025-03-26 134244](https://github.com/user-attachments/assets/c096e821-f9b1-4138-93ee-0b736bcab3cd)
+
 
 - File Metadata
-![image](https://github.com/user-attachments/assets/4ebf6962-582b-4f42-b826-55b8a97aadfc)
-![image](https://github.com/user-attachments/assets/e7851df5-4008-4054-aad1-990d8eb16b92)
-![image](https://github.com/user-attachments/assets/467db963-048a-4ea0-aef5-cb9da966e8e0)
+![Screenshot 2025-03-26 134320](https://github.com/user-attachments/assets/8c751f21-9b99-481a-9797-55367bd40cce)
+
+![Screenshot 2025-03-26 134334](https://github.com/user-attachments/assets/39d51a29-a334-4d22-8e3c-a3a7fc765887)
+
+![Screenshot 2025-03-26 134345](https://github.com/user-attachments/assets/33e2f0e6-f1ac-4234-9a72-0567024dd3b9)
+
 
 - OS Account
-![image](https://github.com/user-attachments/assets/30ee87a7-6d71-424c-9f16-0b101c78ff15)
+![Screenshot 2025-03-26 134434](https://github.com/user-attachments/assets/333485a7-538a-42c2-9f05-910010b0911d)
+
 
 - Generate Report
-![image](https://github.com/user-attachments/assets/5381eefd-7391-4e3f-b117-7d9f58fb5dec)
+![Screenshot 2025-03-26 134509](https://github.com/user-attachments/assets/940c6f1a-634d-4d40-b656-790efcb2e39c)
+
 
 
 ## Result:
