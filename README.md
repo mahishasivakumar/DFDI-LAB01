@@ -66,16 +66,39 @@ The primary aim of this report is to demonstrate the process of creating a disk 
 ![Screenshot 2025-03-20 100942](https://github.com/user-attachments/assets/1fde9b34-b001-4db1-8bb6-599498ec6791)
 
 
+## Step3: Analysing Files using Autopsy
+## 1. Install and Open Autopsy
+- Download and install Autopsy from its official website.
 
+- Open Autopsy and create a new case.
 
-## 2. Delete Files:
+## 2. Create a Case
+- Enter a case name and select a location to store the case data.
+  ![image](https://github.com/user-attachments/assets/d6f37baf-7bce-4abd-9281-cdb8f265c476)
 
-- Select one or more files → Press Delete.
+- Provide a case number and investigator details if required.
 
-- Empty the Recycle Bin to permanently remove them.
+## 3. Add a Data Source
+- Click "Add Data Source" and choose the type:
+  ![image](https://github.com/user-attachments/assets/a7721ece-2aee-4046-926e-e7437804758e)
 
-## Step3: Recover
-- Use the Autopsy or sleuthkit tool to recover these files.
+- Select the data source and let Autopsy process it.
+
+## 4. File Analysis
+- Application 
+![image](https://github.com/user-attachments/assets/031432bf-1463-4a2a-a17a-b86ad5555fe6)
+
+- File Metadata
+![image](https://github.com/user-attachments/assets/4ebf6962-582b-4f42-b826-55b8a97aadfc)
+![image](https://github.com/user-attachments/assets/e7851df5-4008-4054-aad1-990d8eb16b92)
+![image](https://github.com/user-attachments/assets/467db963-048a-4ea0-aef5-cb9da966e8e0)
+
+- OS Account
+![image](https://github.com/user-attachments/assets/30ee87a7-6d71-424c-9f16-0b101c78ff15)
+
+- Generate Report
+![image](https://github.com/user-attachments/assets/5381eefd-7391-4e3f-b117-7d9f58fb5dec)
+
 
 ## Result:
 The process successfully demonstrated disk partitioning, file storage, and forensic analysis using Autopsy. The analysis provided valuable insights into file metadata and system account details.
